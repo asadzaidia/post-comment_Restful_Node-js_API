@@ -1,0 +1,20 @@
+{
+  "name": "nodejsapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^5.4.9",
+    "mongoose-mongodb-errors": "0.0.2",
+    "morgan": "^1.9.1"
+  }
+}
